@@ -1,0 +1,5 @@
+classes= 2
+train  =
+valid  = /opt/remix-data/JapanData/short_image_list.txt
+names = ./darknet/models/yolo_face_person.names
+backup = 
